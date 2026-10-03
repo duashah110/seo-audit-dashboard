@@ -4,7 +4,7 @@ An AI-assisted web application for analyzing websites and presenting clear, acti
 
 ## Project Overview
 
-The SEO Audit Dashboard will help users identify common SEO issues on a website and understand how to improve them through a simple, user-friendly dashboard.
+The SEO Audit Dashboard will help users identify common SEO issues on a website and understand how to improve them through a simple, user-friendly dashboard. It is designed for marketers, content teams, and developers who need a faster way to spot technical and on-page SEO gaps before making changes to a site.
 
 ## Planned Features
 
