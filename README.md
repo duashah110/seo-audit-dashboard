@@ -37,6 +37,8 @@ This project is being developed as part of the FlyRank Front-end AI Engineering 
 4. AI provides explanations and actionable recommendations.
 5. The user can review the results and improve the website's SEO.
 
+The React frontend collects the URL and renders the dashboard. An Express backend fetches the page, runs SEO checks, and returns structured results for the UI.
+
 ## Status
 
 🚧 Initial setup — FE-01
