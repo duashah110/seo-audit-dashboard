@@ -29,6 +29,14 @@ The SEO Audit Dashboard will help users identify common SEO issues on a website 
 
 This project is being developed as part of the FlyRank Front-end AI Engineering track, with AI-assisted development used for research, coding support, review, and iteration.
 
+## How It Works
+
+1. User enters a website URL.
+2. The application analyzes important SEO elements.
+3. Detected issues are organized into an easy-to-understand dashboard.
+4. AI provides explanations and actionable recommendations.
+5. The user can review the results and improve the website's SEO.
+
 ## Status
 
 🚧 Initial setup — FE-01
